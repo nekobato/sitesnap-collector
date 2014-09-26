@@ -1,0 +1,13 @@
+{
+  "baseUrl": "",
+  "page": {
+    "viewportSize": { "width": "", "height": "" },
+    "customHeaders": {
+      "User-Agent": ""
+    }
+  },
+  "device": "",
+  "urls": [
+    { "name": "main", "url": "" }
+  ]
+}
